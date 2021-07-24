@@ -21,6 +21,9 @@ https://microservices.io/
 System Design Cheatsheet</br>
 https://gist.github.com/vasanthk/485d1c25737e8e72759f</br>
 
+This content contains a lot of useful links:</br>
+https://github.com/checkcheckzz/system-design-interview
+
 https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview
 
 
@@ -45,9 +48,22 @@ Christopher Okhravi - </br>
 https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg</br>
 
 
+<h4>REST</h4>
+
+Best Practices
+https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+
+Reference Guide by the auther or Rest Services CookBook
+https://www.infoq.com/articles/subbu-allamaraju-rest/
+
 <h4>Spring and Spring Boot</h4>
 
 https://www.marcobehler.com/guides/spring-framework</br>
 https://www.youtube.com/watch?v=vtPkZShrvXQ&t=1s&ab_channel=freeCodeCamp.org
 
 
+
+<h4>Generic Reads</h4></br>
+
+Learn to Think
+http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/
