@@ -4,7 +4,7 @@
 Adding links and resources to help understand interview questions and software engineering concepts
 
 
-<h3>SYSTEM DESIGN<\h3>
+<h4>SYSTEM DESIGN</h4>
 
 https://github.com/donnemartin/system-design-primer
 
@@ -24,13 +24,13 @@ https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview
 
 
 
-Coding Prep
+<h4>Coding Prep</h4>
 
 https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement
 https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021
 
 
-Spring and Spring Boot
+<h4>Spring and Spring Boot</h4>
 
 https://www.marcobehler.com/guides/spring-framework
 https://www.youtube.com/watch?v=vtPkZShrvXQ&t=1s&ab_channel=freeCodeCamp.org
