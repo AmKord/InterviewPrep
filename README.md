@@ -4,6 +4,8 @@
 Adding links and resources to help understand interview questions and software engineering concepts
 
 
+<h3>SYSTEM DESIGN<\h3>
+
 https://github.com/donnemartin/system-design-primer
 
 The 12 Factor App</br>
@@ -26,3 +28,9 @@ Coding Prep
 
 https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement
 https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021
+
+
+Spring and Spring Boot
+
+https://www.marcobehler.com/guides/spring-framework
+https://www.youtube.com/watch?v=vtPkZShrvXQ&t=1s&ab_channel=freeCodeCamp.org
