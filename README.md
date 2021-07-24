@@ -6,6 +6,7 @@ Adding links and resources to help understand interview questions and software e
 
 <h4>SYSTEM DESIGN</h4>
 
+Pretty Detailed Guide</br>
 https://github.com/donnemartin/system-design-primer
 
 The 12 Factor App</br>
@@ -24,13 +25,28 @@ https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview
 
 
 
+
 <h4>Coding Prep</h4>
 
 https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement
 https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021
 
 
+
+<h4>Java</h4>
+
+Java 8 -> Streams, Optional, Completable Future
+
+
+<h4>Design Patterns</h4>
+
+Christopher Okhravi
+https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg
+
+
 <h4>Spring and Spring Boot</h4>
 
 https://www.marcobehler.com/guides/spring-framework
 https://www.youtube.com/watch?v=vtPkZShrvXQ&t=1s&ab_channel=freeCodeCamp.org
+
+
