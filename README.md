@@ -26,6 +26,9 @@ https://github.com/checkcheckzz/system-design-interview
 
 https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview
 
+Netflix working - what happens when you press play</br>
+http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
+
 
 
 </br>
@@ -56,13 +59,15 @@ https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
 Reference Guide by the auther or Rest Services CookBook
 https://www.infoq.com/articles/subbu-allamaraju-rest/
 
+
+</br>
 <h4>Spring and Spring Boot</h4>
 
 https://www.marcobehler.com/guides/spring-framework</br>
 https://www.youtube.com/watch?v=vtPkZShrvXQ&t=1s&ab_channel=freeCodeCamp.org
 
 
-
+</br>
 <h4>Generic Reads</h4></br>
 
 Learn to Think
