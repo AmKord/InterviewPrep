@@ -37,6 +37,19 @@ http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-p
 https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement</br>
 https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021
 
+How to prep for a tech interview
+https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview
+
+Understanding Data Structures and its uses
+https://www.interviewbit.com/data-structure-interview-questions/
+
+Recursion 
+https://www.youtube.com/watch?v=IJDJ0kBx2LM
+
+Dynamic Programming
+https://www.youtube.com/watch?v=oBt53YbR9Kk
+
+
 
 </br>
 <h4>Java</h4>
