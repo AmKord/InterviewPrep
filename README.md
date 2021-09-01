@@ -32,22 +32,27 @@ http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-p
 
 
 </br>
-<h4>Coding Prep</h4>
+<h4>Coding Prep, DS & Algo</h4>
 
 https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement</br>
 https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021
 
-How to prep for a tech interview
-https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview
+<ul>
+<li>How to prep for a tech interview
+https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview </li>
 
-Understanding Data Structures and its uses
-https://www.interviewbit.com/data-structure-interview-questions/
+<li>Understanding Data Structures and its uses
+https://www.interviewbit.com/data-structure-interview-questions/</li>
 
-Recursion 
-https://www.youtube.com/watch?v=IJDJ0kBx2LM
+<li>Recursion 
+https://www.youtube.com/watch?v=IJDJ0kBx2LM</li>
 
-Dynamic Programming
-https://www.youtube.com/watch?v=oBt53YbR9Kk
+<li>Sliding Window Technique
+https://www.youtube.com/watch?v=MK-NZ4hN7rs</li>
+
+<li>Dynamic Programming
+https://www.youtube.com/watch?v=oBt53YbR9Kk</li>
+</ul>
 
 
 
