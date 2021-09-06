@@ -34,9 +34,13 @@ http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-p
 </br>
 <h4>Coding Prep, DS & Algo</h4>
 
-https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement</br>
-https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021
-
+<ul>
+<li>https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement</li></br>
+<li>https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021</li>
+<li>https://medium.com/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093</li>
+<li>https://medium.com/techie-delight/linked-list-interview-questions-and-practice-problems-55f75302d613</li>
+</ul>
+</br>
 <ul>
 <li>How to prep for a tech interview
 https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview </li>
