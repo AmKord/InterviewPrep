@@ -34,29 +34,34 @@ http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-p
 </br>
 <h4>Coding Prep, DS & Algo</h4>
 
-<ul>
-<li>https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement</li></br>
-<li>https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021</li>
-<li>https://medium.com/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093</li>
-<li>https://medium.com/techie-delight/linked-list-interview-questions-and-practice-problems-55f75302d613</li>
-</ul>
+<h5>How to Prepare</h5>
+
+  <ul>
+    <li>https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df</li>
+    </ul>
+  <ul>
+    <li>https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement</li></br>
+    <li>https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021</li>
+    <li>https://medium.com/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093</li>
+    <li>https://medium.com/techie-delight/linked-list-interview-questions-and-practice-problems-55f75302d613</li>
+  </ul>
 </br>
-<ul>
-<li>How to prep for a tech interview
-https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview </li>
+  <ul>
+    <li>How to prep for a tech interview
+    https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview </li>
 
-<li>Understanding Data Structures and its uses
-https://www.interviewbit.com/data-structure-interview-questions/</li>
+    <li>Understanding Data Structures and its uses
+    https://www.interviewbit.com/data-structure-interview-questions/</li>
 
-<li>Recursion 
-https://www.youtube.com/watch?v=IJDJ0kBx2LM</li>
+    <li>Recursion 
+    https://www.youtube.com/watch?v=IJDJ0kBx2LM</li>
 
-<li>Sliding Window Technique
-https://www.youtube.com/watch?v=MK-NZ4hN7rs</li>
+    <li>Sliding Window Technique
+    https://www.youtube.com/watch?v=MK-NZ4hN7rs</li>
 
-<li>Dynamic Programming
-https://www.youtube.com/watch?v=oBt53YbR9Kk</li>
-</ul>
+    <li>Dynamic Programming
+    https://www.youtube.com/watch?v=oBt53YbR9Kk</li>
+  </ul>
 
 
 
