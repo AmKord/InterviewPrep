@@ -38,7 +38,9 @@ http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-p
 
   <ul>
     <li>https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df</li>
-    </ul>
+  </ul>
+  </br>
+  <h5>Sample Question Lists</h5>  
   <ul>
     <li>https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement</li></br>
     <li>https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021</li>
