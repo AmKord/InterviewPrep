@@ -101,3 +101,17 @@ https://www.youtube.com/watch?v=vtPkZShrvXQ&t=1s&ab_channel=freeCodeCamp.org
 
 Learn to Think
 http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/
+
+
+
+
+
+
+</br>
+<h4>Questions Asked</h4></br>
+
+
+<h5>Java</h5>
+<h5>AWS</h5>
+<h5>UI</h5>
+<h5>Design</h5>
