@@ -112,6 +112,26 @@ http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/
 
 
 <h5>Java</h5>
+ <ul>
+  <li></li>
+ </ul>
 <h5>AWS</h5>
+
+ <ul>
+  <li></li>
+ </ul>
 <h5>UI</h5>
+
+ <ul>
+  <li></li>
+ </ul>
 <h5>Design</h5>
+
+ <ul>
+  <li></li>
+ </ul>
+<h5>Data Structures</h5>
+
+ <ul>
+  <li></li>
+ </ul>
