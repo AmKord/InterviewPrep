@@ -4,135 +4,110 @@
 Adding links and resources to help understand interview questions and software engineering concepts
 
 
-<h4>SYSTEM DESIGN</h4>
+## SYSTEM DESIGN
 
-Pretty Detailed Guide</br>
-https://github.com/donnemartin/system-design-primer
+1. [Pretty Detailed Guide](https://github.com/donnemartin/system-design-primer)
 
-The 12 Factor App</br>
-https://12factor.net/
+1. [The 12 Factor App](https://12factor.net/)
 
-https://algodaily.com/lessons/a-systems-design-primer-for-new-engineers
+1. [A Systems Design Interview Primer For New Engineers](https://algodaily.com/lessons/a-systems-design-primer-for-new-engineers)
 
-http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/
+1. [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 
-https://microservices.io/
+1. [microservices](https://microservices.io/)
 
-System Design Cheatsheet</br>
-https://gist.github.com/vasanthk/485d1c25737e8e72759f</br>
-
-This content contains a lot of useful links:</br>
-https://github.com/checkcheckzz/system-design-interview
-
-https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview
-
-Netflix working - what happens when you press play</br>
-http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
+1. [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 
 
+### This content contains a lot of useful links:
 
-</br>
-<h4>Coding Prep, DS & Algo</h4>
+1. https://github.com/checkcheckzz/system-design-interview
 
-<h5>How to Prepare</h5>
+2. https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview
 
-  <ul>
-    <li>https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df</li>
-  <li>https://www.algotree.org/algorithms/minimum_step_to_make_anagrams/</li>
-  </ul>
-  </br>
-  <h5>Sample Question Lists</h5>  
-  <ul>
-    <li>https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement</li></br>
-    <li>https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021</li>
-    <li>https://medium.com/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093</li>
-    <li>https://medium.com/techie-delight/linked-list-interview-questions-and-practice-problems-55f75302d613</li>
-  </ul>
-</br>
-  <ul>
-    <li>How to prep for a tech interview
-    https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview </li>
-
-    <li>Understanding Data Structures and its uses
-    https://www.interviewbit.com/data-structure-interview-questions/</li>
-
-    <li>Recursion 
-    https://www.youtube.com/watch?v=IJDJ0kBx2LM</li>
-
-    <li>Sliding Window Technique
-    https://www.youtube.com/watch?v=MK-NZ4hN7rs</li>
-
-    <li>Dynamic Programming
-    https://www.youtube.com/watch?v=oBt53YbR9Kk</li>
-  </ul>
+3. Netflix working - what happens when you press play(http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 
 
+## Coding Prep, DS & Algo
 
-</br>
-<h4>Java</h4>
+### How to Prepare
 
-Java 8 -> Streams, Optional, Completable Future
+
+1. https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df
+2. https://www.algotree.org/algorithms/minimum_step_to_make_anagrams
+
+### Sample Question Lists
+
+1. https://leetcode.com/discuss/study-guide/1337373/tree-question-pattern-2021-placement
+1. https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021
+1. https://medium.com/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093
+1. https://medium.com/techie-delight/linked-list-interview-questions-and-practice-problems-55f75302d613
+1. [How to prep for a tech interview](https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview)
+1. [Understanding Data Structures and its uses](https://www.interviewbit.com/data-structure-interview-questions/)
+1. [Recursion ](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
+1. [Sliding Window Technique](https://www.youtube.com/watch?v=MK-NZ4hN7rs)
+1. [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+  
+
+
+## Java
+
+1. Java 8 -> Streams, Optional, Completable Future
 Concurrency -> 
 
-</br>
-<h4>Design Patterns</h4>
 
-Christopher Okhravi - </br>
-https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg</br>
+### Design Patterns
 
-
-<h4>REST</h4>
-
-Best Practices
-https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
-
-Reference Guide by the auther or Rest Services CookBook
-https://www.infoq.com/articles/subbu-allamaraju-rest/
+1. [Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg)
 
 
-</br>
-<h4>Spring and Spring Boot</h4>
+### REST
 
-https://www.marcobehler.com/guides/spring-framework</br>
-https://www.youtube.com/watch?v=vtPkZShrvXQ&t=1s&ab_channel=freeCodeCamp.org
+1. [Best Practices](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+2. [Reference Guide by the auther or Rest Services CookBook](https://www.infoq.com/articles/subbu-allamaraju-rest/)
 
 
-</br>
-<h4>Generic Reads</h4></br>
 
-Learn to Think
-http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/
+### Spring and Spring Boot
+
+1. https://www.marcobehler.com/guides/spring-framework
+2. https://www.youtube.com/watch?v=vtPkZShrvXQ&t=1s&ab_channel=freeCodeCamp.org
+
+
+
+### Generic Reads
+
+1. [Learn to Think](http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/)
 
 
 
 
 
 
-</br>
-<h4>Questions Asked</h4></br>
+
+## Questions Asked
 
 
-<h5>Java</h5>
- <ul>
-  <li></li>
- </ul>
-<h5>AWS</h5>
+### Java
 
- <ul>
-  <li></li>
- </ul>
-<h5>UI</h5>
+  1. 
+ 
+### AWS
 
- <ul>
-  <li></li>
- </ul>
-<h5>Design</h5>
 
- <ul>
-  <li></li>
- </ul>
-<h5>Data Structures</h5>
+  1. 
+ 
+### UI
 
- <ul>
-  <li></li>
- </ul>
+
+  1. 
+ 
+### Design
+
+  1. 
+ 
+### Data Structures
+
+
+  1. 
+ 
