@@ -35,6 +35,7 @@ Adding links and resources to help understand interview questions and software e
 
 1. https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df
 2. https://www.algotree.org/algorithms/minimum_step_to_make_anagrams
+3. https://www.youtube.com/c/TECHDOSE4u -> Has step wise solutions to known leetcode questions.
 
 ### Sample Question Lists
 
@@ -64,7 +65,7 @@ Concurrency ->
 ### REST
 
 1. [Best Practices](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-2. [Reference Guide by the auther or Rest Services CookBook](https://www.infoq.com/articles/subbu-allamaraju-rest/)
+2. [Reference Guide by the author of Rest Services CookBook](https://www.infoq.com/articles/subbu-allamaraju-rest/)
 
 
 
@@ -110,4 +111,9 @@ Concurrency ->
 
 
   1. 
+ 
+ 
+ 
+ 
+ ### Books to Refer
  
