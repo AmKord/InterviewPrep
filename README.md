@@ -116,4 +116,7 @@ Concurrency ->
  
  
  ### Books to Refer
- 
+1. System Design Interview -> Alex Xu
+1. Building Microservices: Designing Fine-Grained Systems
+1. Concurrency in practice
+1. Designing Data Intensive Applications
