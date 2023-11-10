@@ -120,3 +120,31 @@ Concurrency ->
 1. Building Microservices: Designing Fine-Grained Systems
 1. Concurrency in practice
 1. Designing Data Intensive Applications
+
+### Resources to refer:
+System Design:
+1. Byte Byte Go by Alex Xu - https://lnkd.in/eEGZ-3mY
+2. Byte Sized Design by Alex Nguyen - https://lnkd.in/e7yxQJf7
+3. System Design One by Neo K. - https://lnkd.in/ePa9WCGx
+4. Systems Design Challenges by Ricardo A. Morales - https://lnkd.in/eSX6kdb3
+
+Coding:
+1. Coding Challenges - https://lnkd.in/ebRhtc-C
+2. Code Crafters by Sarup Banskota and Paul Kuruvilla - https://lnkd.in/ehSn8rzF
+3. The Polymathic Engineer by Fernando Franco - https://lnkd.in/eRuhzFRQ
+4. Exercism - https://exercism.org/
+
+Software Development Books:
+1. The Pragmatic Programmer by David Thomas and Andrew Hunt - https://lnkd.in/eck7xYTk
+2. Working Effectively with Legacy Code by Michael Feathers - https://lnkd.in/e8vV4CNd
+3. Refactoring by Martin Fowler - https://lnkd.in/esENuzEw
+4. Clean Code by Robert C, Martin - https://lnkd.in/eueZsxtS
+5. Designing Data-Intensive Applications by Martin Kleppmann - https://lnkd.in/eWq4sy8a
+
+Growing as an Engineer:
+1. High Growth Engineer by Jordan Cutler - https://lnkd.in/gndxXza9
+2. Taro from Rahul Pandey and Alex Chiou - https://lnkd.in/ei2P-T-4
+3. Engineer’s Codex - https://lnkd.in/eG7rhUKN
+4. Developing Skills - https://lnkd.in/eqwgxVAv
+5. The Developing Dev by Ryan Peterman - https://lnkd.in/eXpuQtQ7
+6. Techlead Mentor by Raviraj Achar - https://lnkd.in/eAJUE4ZZ
