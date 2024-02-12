@@ -25,7 +25,7 @@ Adding links and resources to help understand interview questions and software e
 
 2. https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview
 
-3. Netflix working - what happens when you press play(http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
+3. [Netflix working - what happens when you press play](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 
 
 ## Coding Prep, DS & Algo
@@ -81,27 +81,6 @@ Concurrency ->
 1. [Learn to Think](http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/)
 
 
-
-
-
-
-
-## Questions Asked
-
-
-### Java
-
-  1. 
- 
-### AWS
-
-
-  1. 
- 
-### UI
-
-
-  1. 
  
 ### Design
 
@@ -129,28 +108,28 @@ Concurrency ->
 
 ### Resources to refer:
 System Design:
-1. Byte Byte Go by Alex Xu - https://lnkd.in/eEGZ-3mY
-2. Byte Sized Design by Alex Nguyen - https://lnkd.in/e7yxQJf7
-3. System Design One by Neo K. - https://lnkd.in/ePa9WCGx
-4. Systems Design Challenges by Ricardo A. Morales - https://lnkd.in/eSX6kdb3
+1. Byte Byte Go by Alex Xu
+2. Byte Sized Design by Alex Nguyen
+3. System Design One by Neo K.
+4. Systems Design Challenges by Ricardo A. Morales
 
 Coding:
-1. Coding Challenges - https://lnkd.in/ebRhtc-C
-2. Code Crafters by Sarup Banskota and Paul Kuruvilla - https://lnkd.in/ehSn8rzF
-3. The Polymathic Engineer by Fernando Franco - https://lnkd.in/eRuhzFRQ
+1. Coding Challenges
+2. Code Crafters by Sarup Banskota and Paul Kuruvilla
+3. The Polymathic Engineer by Fernando Franco
 4. Exercism - https://exercism.org/
 
 Software Development Books:
-1. The Pragmatic Programmer by David Thomas and Andrew Hunt - https://lnkd.in/eck7xYTk
-2. Working Effectively with Legacy Code by Michael Feathers - https://lnkd.in/e8vV4CNd
-3. Refactoring by Martin Fowler - https://lnkd.in/esENuzEw
-4. Clean Code by Robert C, Martin - https://lnkd.in/eueZsxtS
-5. Designing Data-Intensive Applications by Martin Kleppmann - https://lnkd.in/eWq4sy8a
+1. The Pragmatic Programmer by David Thomas and Andrew Hunt
+2. Working Effectively with Legacy Code by Michael Feathers
+3. Refactoring by Martin Fowler
+4. Clean Code by Robert C, Martin
+5. Designing Data-Intensive Applications by Martin Kleppmann
 
 Growing as an Engineer:
-1. High Growth Engineer by Jordan Cutler - https://lnkd.in/gndxXza9
-2. Taro from Rahul Pandey and Alex Chiou - https://lnkd.in/ei2P-T-4
-3. Engineer’s Codex - https://lnkd.in/eG7rhUKN
-4. Developing Skills - https://lnkd.in/eqwgxVAv
-5. The Developing Dev by Ryan Peterman - https://lnkd.in/eXpuQtQ7
-6. Techlead Mentor by Raviraj Achar - https://lnkd.in/eAJUE4ZZ
+1. High Growth Engineer by Jordan Cutler
+2. Taro from Rahul Pandey and Alex Chiou
+3. Engineer’s Codex
+4. Developing Skills
+5. The Developing Dev by Ryan Peterman
+6. Techlead Mentor by Raviraj Achar
