@@ -111,6 +111,11 @@ Concurrency ->
 
 
   1. [75 DSA Questions](https://www.techinterviewhandbook.org/)
+  2. [Strivers SDE Sheet] (https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+  3. [Crucial DSA Resources: A Gateway to Mastery] (https://leetcode.com/discuss/study-guide/4290613/crucial-dsa-resources-a-gateway-to-mastery-all-types-of-patterns-and-useful-links)
+
+### Computer Science
+  1. [Teach Yourself CS](https://teachyourselfcs.com/)
  
  
  
