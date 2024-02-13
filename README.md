@@ -27,6 +27,10 @@ Adding links and resources to help understand interview questions and software e
 
 3. [Netflix working - what happens when you press play](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 
+### Tech Talks, Podcasts
+1. [Netflix: Mastering Chaos](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
+2. [Brian Goetz, Java Architect](https://spring.io/blog/2023/10/12/java-language-architect-brian-goetz) also check his answers on stackoverflow.
+
 
 ## Coding Prep, DS & Algo
 
@@ -49,7 +53,6 @@ Adding links and resources to help understand interview questions and software e
 1. [Sliding Window Technique](https://www.youtube.com/watch?v=MK-NZ4hN7rs)
 1. [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk)
   
-
 
 ## Java
 
@@ -88,14 +91,18 @@ Concurrency ->
  
 ### Data Structures
 
-
   1. [75 DSA Questions](https://www.techinterviewhandbook.org/)
   2. [Strivers SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
   3. [Crucial DSA Resources: A Gateway to Mastery](https://leetcode.com/discuss/study-guide/4290613/crucial-dsa-resources-a-gateway-to-mastery-all-types-of-patterns-and-useful-links)
   4. [Top DSA Sheets to Follow](https://www.linkedin.com/pulse/top-dsa-sheets-follow-yash-siwach?trackingId=lKXIKcRsS7mclMg075WqaQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BbWvmH%2FudToilSDTYiQQ%2Fww%3D%3D)
 
 ### Computer Science
+
   1. [Teach Yourself CS](https://teachyourselfcs.com/)
+
+### Docker
+
+  1. [Helpful Links](https://github.com/veggiemonk/awesome-docker)
  
  
  
