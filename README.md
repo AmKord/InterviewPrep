@@ -30,6 +30,8 @@ Adding links and resources to help understand interview questions and software e
 ### Tech Talks, Podcasts
 1. [Netflix: Mastering Chaos](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 2. [Brian Goetz, Java Architect](https://spring.io/blog/2023/10/12/java-language-architect-brian-goetz) also check his answers on stackoverflow.
+3. [Operating Systems Three easy pieces] (https://app.gumroad.com/d/987ffa8ff57b43ca4ff993cf25f24476)
+4. 
 
 
 ## Coding Prep, DS & Algo
