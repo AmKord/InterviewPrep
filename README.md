@@ -42,6 +42,8 @@ Adding links and resources to help understand interview questions and software e
 1. https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df
 2. https://www.algotree.org/algorithms/minimum_step_to_make_anagrams
 3. https://www.youtube.com/c/TECHDOSE4u -> Has step wise solutions to known leetcode questions.
+4. [Important Handbook for DSA prep](https://github.com/yangshun/tech-interview-handbook)
+5. [DSA Prep Guide Discussion Leetcode] (https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 
 ### Sample Question Lists
 
