@@ -97,6 +97,7 @@ Concurrency ->
   2. [Strivers SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
   3. [Crucial DSA Resources: A Gateway to Mastery](https://leetcode.com/discuss/study-guide/4290613/crucial-dsa-resources-a-gateway-to-mastery-all-types-of-patterns-and-useful-links)
   4. [Top DSA Sheets to Follow](https://www.linkedin.com/pulse/top-dsa-sheets-follow-yash-siwach?trackingId=lKXIKcRsS7mclMg075WqaQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BbWvmH%2FudToilSDTYiQQ%2Fww%3D%3D)
+  5. [Leetcode Patterns] (https://medium.com/leetcode-patterns)
 
 ### Computer Science
 
@@ -111,9 +112,12 @@ Concurrency ->
  
  ### Books to Refer
 1. System Design Interview -> Alex Xu
-1. Building Microservices: Designing Fine-Grained Systems
-1. Concurrency in practice
-1. Designing Data Intensive Applications
+2. Building Microservices: Designing Fine-Grained Systems
+3. Concurrency in practice
+4. Designing Data Intensive Applications
+5. Software Architecture : The Hard Parts
+6. Software Engineering at Google
+7. The Signal and the Noise
 
 ### Resources to refer:
 System Design:
