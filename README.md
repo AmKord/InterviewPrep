@@ -54,7 +54,7 @@ Adding links and resources to help understand interview questions and software e
 1. https://medium.com/techie-delight/linked-list-interview-questions-and-practice-problems-55f75302d613
 1. [How to prep for a tech interview](https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview)
 1. [Understanding Data Structures and its uses](https://www.interviewbit.com/data-structure-interview-questions/)
-1. [Recursion ](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
+1. [Recursion](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
 1. [Sliding Window Technique](https://www.youtube.com/watch?v=MK-NZ4hN7rs)
 1. [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk)
   
@@ -100,7 +100,7 @@ Concurrency ->
   2. [Strivers SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
   3. [Crucial DSA Resources: A Gateway to Mastery](https://leetcode.com/discuss/study-guide/4290613/crucial-dsa-resources-a-gateway-to-mastery-all-types-of-patterns-and-useful-links)
   4. [Top DSA Sheets to Follow](https://www.linkedin.com/pulse/top-dsa-sheets-follow-yash-siwach?trackingId=lKXIKcRsS7mclMg075WqaQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BbWvmH%2FudToilSDTYiQQ%2Fww%3D%3D)
-  5. [Leetcode Patterns] (https://medium.com/leetcode-patterns)
+  5. [Leetcode Patterns](https://medium.com/leetcode-patterns)
 
 ### Computer Science
 
