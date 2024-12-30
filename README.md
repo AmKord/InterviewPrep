@@ -44,6 +44,7 @@ Adding links and resources to help understand interview questions and software e
 3. https://www.youtube.com/c/TECHDOSE4u -> Has step wise solutions to known leetcode questions.
 4. [Important Handbook for DSA prep](https://github.com/yangshun/tech-interview-handbook)
 5. [DSA Prep Guide Discussion Leetcode] (https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+6. [Good DSA and General Computer Reads](https://quanticdev.com/)
 
 ### Sample Question Lists
 
@@ -104,6 +105,8 @@ Concurrency ->
 ### Computer Science
 
   1. [Teach Yourself CS](https://teachyourselfcs.com/)
+  2. [Open Source Society University - Computer Science](https://github.com/ossu/computer-science)
+  3. [University Video Lectures Computer Science](http://www.infocobuild.com/education/audio-video-courses/computer-science/computer-science.html)
 
 ### Docker
 
@@ -117,11 +120,12 @@ Concurrency ->
 2. Building Microservices: Designing Fine-Grained Systems
 3. Concurrency in practice
 4. Designing Data Intensive Applications
-5. Software Architecture : The Hard Parts
-6. Software Engineering at Google
-7. The Signal and the Noise
+5. Operating Systems: Three Easy Pieces
+6. Software Architecture : The Hard Parts
+7. Software Engineering at Google
+8. The Signal and the Noise
 
-### Resources to refer:
+### Resources to refer (This needs to be evaluated):
 System Design:
 1. Byte Byte Go by Alex Xu
 2. Byte Sized Design by Alex Nguyen
