@@ -33,6 +33,8 @@ Adding links and resources to help understand interview questions and software e
 3. [Operating Systems Three easy pieces] (https://app.gumroad.com/d/987ffa8ff57b43ca4ff993cf25f24476)
 4. 
 
+### AI Tools And Theory
+1. [Let's build GPT: from scratch, in code, spelled out. - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7)
 
 ## Coding Prep, DS & Algo
 
