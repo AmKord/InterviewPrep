@@ -43,12 +43,11 @@ Adding links and resources to help understand interview questions and software e
 
 ### How to Prepare
 
-1. https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df
-2. https://www.algotree.org/algorithms/minimum_step_to_make_anagrams
-3. [Leetcode Solutions Walkthrough](https://www.youtube.com/c/TECHDOSE4u) -> Has step wise solutions to known leetcode questions.
-4. [Important Handbook for DSA prep](https://github.com/yangshun/tech-interview-handbook)
-5. [DSA Prep Guide Discussion Leetcode] (https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
-6. [Good DSA and General Computer Reads](https://quanticdev.com/)
+1. [How to study for DSA](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df)
+2. [Leetcode Solutions Walkthrough](https://www.youtube.com/c/TECHDOSE4u) -> Has step wise solutions to known leetcode questions.
+3. [Important Handbook for DSA prep](https://github.com/yangshun/tech-interview-handbook)
+4. [DSA Prep Guide Discussion Leetcode](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+5. [Good DSA and General Computer Reads](https://quanticdev.com/)
 
 ### Sample Question Lists
 
@@ -56,6 +55,7 @@ Adding links and resources to help understand interview questions and software e
 1. https://leetcode.com/discuss/study-guide/1333049/Collections-of-string-questions-pattern-for-upcoming-placement-2021
 1. https://medium.com/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093
 1. https://medium.com/techie-delight/linked-list-interview-questions-and-practice-problems-55f75302d613
+1. [minimum_step_to_make_anagrams](https://www.algotree.org/algorithms/minimum_step_to_make_anagrams)
 1. [How to prep for a tech interview](https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview)
 1. [Understanding Data Structures and its uses](https://www.interviewbit.com/data-structure-interview-questions/)
 1. [Recursion](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
@@ -66,7 +66,8 @@ Adding links and resources to help understand interview questions and software e
 ## Java
 
 1. Java 8 -> Streams, Optional, Completable Future
-Concurrency -> 
+Concurrency ->
+2. Java 17 -> 
 
 
 ### Design Patterns
@@ -117,8 +118,6 @@ Concurrency ->
   1. [Helpful Links](https://github.com/veggiemonk/awesome-docker)
  
  
- 
- 
  ### Books to Refer
 1. System Design Interview -> Alex Xu
 2. Building Microservices: Designing Fine-Grained Systems
@@ -136,20 +135,20 @@ System Design:
 3. System Design One by Neo K.
 4. Systems Design Challenges by Ricardo A. Morales
 
-Coding:
+#### Coding:
 1. Coding Challenges
 2. Code Crafters by Sarup Banskota and Paul Kuruvilla
 3. The Polymathic Engineer by Fernando Franco
 4. Exercism - https://exercism.org/
 
-Software Development Books:
+#### Software Development Books:
 1. The Pragmatic Programmer by David Thomas and Andrew Hunt
 2. Working Effectively with Legacy Code by Michael Feathers
 3. Refactoring by Martin Fowler
 4. Clean Code by Robert C, Martin
 5. Designing Data-Intensive Applications by Martin Kleppmann
 
-Growing as an Engineer:
+#### Growing as an Engineer:
 1. High Growth Engineer by Jordan Cutler
 2. Taro from Rahul Pandey and Alex Chiou
 3. Engineer’s Codex
