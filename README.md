@@ -21,29 +21,31 @@ Adding links and resources to help understand interview questions and software e
 
 ### This content contains a lot of useful links:
 
-1. https://github.com/checkcheckzz/system-design-interview
+1. [System Design Interview Book](https://github.com/checkcheckzz/system-design-interview)
 
-2. https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview
+2. [How to Prepare for an Interview - AlgoDaily](https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview)
 
 3. [Netflix working - what happens when you press play](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html)
 
 ### Tech Talks, Podcasts
+
 1. [Netflix: Mastering Chaos](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 2. [Brian Goetz, Java Architect](https://spring.io/blog/2023/10/12/java-language-architect-brian-goetz) also check his answers on stackoverflow.
-3. [Operating Systems Three easy pieces] (https://app.gumroad.com/d/987ffa8ff57b43ca4ff993cf25f24476)
-4. 
+3. [Operating Systems Three easy pieces](https://app.gumroad.com/d/987ffa8ff57b43ca4ff993cf25f24476)
+4. [Distributed Systems - Tim Berglund Devoxx](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+
 
 ### AI Tools And Theory
+
 1. [Let's build GPT: from scratch, in code, spelled out. - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7)
 
 ## Coding Prep, DS & Algo
 
 ### How to Prepare
 
-
 1. https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df
 2. https://www.algotree.org/algorithms/minimum_step_to_make_anagrams
-3. https://www.youtube.com/c/TECHDOSE4u -> Has step wise solutions to known leetcode questions.
+3. [Leetcode Solutions Walkthrough](https://www.youtube.com/c/TECHDOSE4u) -> Has step wise solutions to known leetcode questions.
 4. [Important Handbook for DSA prep](https://github.com/yangshun/tech-interview-handbook)
 5. [DSA Prep Guide Discussion Leetcode] (https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 6. [Good DSA and General Computer Reads](https://quanticdev.com/)
@@ -92,7 +94,7 @@ Concurrency ->
 
 
  
-### Design
+### Low Level Design
 
   1. 
  
