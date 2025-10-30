@@ -17,6 +17,7 @@ Adding links and resources to help understand interview questions and software e
 1. [microservices](https://microservices.io/)
 
 1. [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+2. [Flash Sale System Design](https://dev.to/budiwidhiyanto/designing-a-scalable-backend-for-flash-sales-4g9o)
 
 
 ### This content contains a lot of useful links:
