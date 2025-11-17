@@ -20,7 +20,7 @@ Adding links and resources to help understand interview questions and software e
    
 3. [Flash Sale System Design](https://dev.to/budiwidhiyanto/designing-a-scalable-backend-for-flash-sales-4g9o)
 
-4. [Quaster Engineering Blog](https://blog.quastor.org/)
+4. [Quastor Engineering Blog](https://blog.quastor.org/)
 
 
 ### This content contains a lot of useful links:
