@@ -105,11 +105,13 @@ Concurrency ->
  
 ### Data Structures
 
-  1. [75 DSA Questions](https://www.techinterviewhandbook.org/)
-  2. [Strivers SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-  3. [Crucial DSA Resources: A Gateway to Mastery](https://leetcode.com/discuss/study-guide/4290613/crucial-dsa-resources-a-gateway-to-mastery-all-types-of-patterns-and-useful-links)
-  4. [Top DSA Sheets to Follow](https://www.linkedin.com/pulse/top-dsa-sheets-follow-yash-siwach?trackingId=lKXIKcRsS7mclMg075WqaQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BbWvmH%2FudToilSDTYiQQ%2Fww%3D%3D)
-  5. [Leetcode Patterns](https://medium.com/leetcode-patterns)
+  1. [DSA Study Sheet](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
+  2. [Blind 75](https://github.com/AmKord/FAANG-Coding-Interview-Questions/blob/main/Blind-75.md)
+  3. [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+  4. [Strivers SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+  5. [Crucial DSA Resources: A Gateway to Mastery](https://leetcode.com/discuss/study-guide/4290613/crucial-dsa-resources-a-gateway-to-mastery-all-types-of-patterns-and-useful-links)
+  6. [Top DSA Sheets to Follow](https://www.linkedin.com/pulse/top-dsa-sheets-follow-yash-siwach?trackingId=lKXIKcRsS7mclMg075WqaQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BbWvmH%2FudToilSDTYiQQ%2Fww%3D%3D)
+  7. [Leetcode Patterns](https://medium.com/leetcode-patterns)
 
 ### Computer Science
 
