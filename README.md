@@ -52,6 +52,7 @@ Adding links and resources to help understand interview questions and software e
 3. [Important Handbook for DSA prep](https://github.com/yangshun/tech-interview-handbook)
 4. [DSA Prep Guide Discussion Leetcode](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 5. [Good DSA and General Computer Reads](https://quanticdev.com/)
+6. [How to prep for a tech interview](https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview)
 
 ### Sample Question Lists
 
@@ -60,11 +61,21 @@ Adding links and resources to help understand interview questions and software e
 1. https://medium.com/javarevisited/top-20-linked-list-coding-problems-from-technical-interviews-90b64d2df093
 1. https://medium.com/techie-delight/linked-list-interview-questions-and-practice-problems-55f75302d613
 1. [minimum_step_to_make_anagrams](https://www.algotree.org/algorithms/minimum_step_to_make_anagrams)
-1. [How to prep for a tech interview](https://algodaily.com/lessons/how-to-prepare-for-a-technical-interview)
 1. [Understanding Data Structures and its uses](https://www.interviewbit.com/data-structure-interview-questions/)
-1. [Recursion](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
-1. [Sliding Window Technique](https://www.youtube.com/watch?v=MK-NZ4hN7rs)
-1. [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+
+### Data Structures
+
+  1. [DSA Study Sheet](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
+  2. [Blind 75](https://github.com/AmKord/FAANG-Coding-Interview-Questions/blob/main/Blind-75.md)
+  3. [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+  4. [Strivers SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+  5. [Crucial DSA Resources: A Gateway to Mastery](https://leetcode.com/discuss/study-guide/4290613/crucial-dsa-resources-a-gateway-to-mastery-all-types-of-patterns-and-useful-links)
+  6. [Top DSA Sheets to Follow](https://www.linkedin.com/pulse/top-dsa-sheets-follow-yash-siwach?trackingId=lKXIKcRsS7mclMg075WqaQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BbWvmH%2FudToilSDTYiQQ%2Fww%3D%3D)
+  7. [Leetcode Patterns](https://medium.com/leetcode-patterns)
+  8. [Recursion](https://www.youtube.com/watch?v=IJDJ0kBx2LM)
+  9. [Sliding Window Technique](https://www.youtube.com/watch?v=MK-NZ4hN7rs)
+  10. [Dynamic Programming](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+  11. [Dynamic Programming Patterns](https://leetcode.com/discuss/post/458695/dynamic-programming-patterns-by-aatalyk-pmgr/?utm_source=sp_auto_dm&fbclid=PAVERFWAPQ8QRleHRuA2FlbQIxMABzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacOcmysMCqEqCWz4x40qwk-M_NsAmYgE3TbCAVo7Jp7c0d-QZA1eTna4WJNpw_aem_EPZErtrl9RaGcusPRaxmag#distinct-ways)   
   
 
 ## Java
@@ -102,17 +113,6 @@ Concurrency ->
 ### Low Level Design
 
   1. 
- 
-### Data Structures
-
-  1. [DSA Study Sheet](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
-  2. [Blind 75](https://github.com/AmKord/FAANG-Coding-Interview-Questions/blob/main/Blind-75.md)
-  3. [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
-  4. [Strivers SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
-  5. [Crucial DSA Resources: A Gateway to Mastery](https://leetcode.com/discuss/study-guide/4290613/crucial-dsa-resources-a-gateway-to-mastery-all-types-of-patterns-and-useful-links)
-  6. [Top DSA Sheets to Follow](https://www.linkedin.com/pulse/top-dsa-sheets-follow-yash-siwach?trackingId=lKXIKcRsS7mclMg075WqaQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BbWvmH%2FudToilSDTYiQQ%2Fww%3D%3D)
-  7. [Leetcode Patterns](https://medium.com/leetcode-patterns)
-  8. [Dynamic Programming Patters](https://leetcode.com/discuss/post/458695/dynamic-programming-patterns-by-aatalyk-pmgr/?utm_source=sp_auto_dm&fbclid=PAVERFWAPQ8QRleHRuA2FlbQIxMABzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacOcmysMCqEqCWz4x40qwk-M_NsAmYgE3TbCAVo7Jp7c0d-QZA1eTna4WJNpw_aem_EPZErtrl9RaGcusPRaxmag#distinct-ways)
 
 ### Computer Science
 
