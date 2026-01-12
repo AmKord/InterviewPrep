@@ -112,6 +112,7 @@ Concurrency ->
   5. [Crucial DSA Resources: A Gateway to Mastery](https://leetcode.com/discuss/study-guide/4290613/crucial-dsa-resources-a-gateway-to-mastery-all-types-of-patterns-and-useful-links)
   6. [Top DSA Sheets to Follow](https://www.linkedin.com/pulse/top-dsa-sheets-follow-yash-siwach?trackingId=lKXIKcRsS7mclMg075WqaQ%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BbWvmH%2FudToilSDTYiQQ%2Fww%3D%3D)
   7. [Leetcode Patterns](https://medium.com/leetcode-patterns)
+  8. [Dynamic Programming Patters](https://leetcode.com/discuss/post/458695/dynamic-programming-patterns-by-aatalyk-pmgr/?utm_source=sp_auto_dm&fbclid=PAVERFWAPQ8QRleHRuA2FlbQIxMABzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAacOcmysMCqEqCWz4x40qwk-M_NsAmYgE3TbCAVo7Jp7c0d-QZA1eTna4WJNpw_aem_EPZErtrl9RaGcusPRaxmag#distinct-ways)
 
 ### Computer Science
 
