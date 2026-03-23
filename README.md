@@ -119,6 +119,7 @@ Concurrency ->
   1. [Teach Yourself CS](https://teachyourselfcs.com/)
   2. [Open Source Society University - Computer Science](https://github.com/ossu/computer-science)
   3. [University Video Lectures Computer Science](http://www.infocobuild.com/education/audio-video-courses/computer-science/computer-science.html)
+  4. [Learn Linux and Other Dev Tools - LabEx](https://labex.io/)
 
 ### Docker
 
