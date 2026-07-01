@@ -42,6 +42,8 @@ Adding links and resources to help understand interview questions and software e
 ### AI Tools And Theory
 
 1. [Let's build GPT: from scratch, in code, spelled out. - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7)
+2. [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+3. 
 
 ## Coding Prep, DS & Algo
 
