@@ -110,7 +110,10 @@ Concurrency ->
 
 1. [Learn to Think](http://www.ybrikman.com/writing/2014/05/19/dont-learn-to-code-learn-to-think/)
 
+### Under the Hood
 
+1. [JVM Internals](https://blog.jamesdbloom.com/JVMInternals.html)
+2. [Mechanical Sympathy](https://mechanical-sympathy.blogspot.com/)
  
 ### Low Level Design
 
